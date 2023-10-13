@@ -20,7 +20,7 @@ a {
 }
 
 a:hover {
-  color: #37b3ed;
+  color: aqua;
   text-decoration: none;
 }
 
@@ -52,7 +52,7 @@ h6 {
 
 .back-to-top i {
   font-size: 28px;
-  color: #fff;
+  color: white;
   line-height: 0;
 }
 
@@ -267,7 +267,7 @@ h6 {
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
-  color: #fff;
+  color: white;
 }
 
 #hero p {
@@ -430,7 +430,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 60px;
